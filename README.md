@@ -1,0 +1,2 @@
+# Examples.RD.Python.CodebookWebinarCourse4
+This is a repository for examples used in a CodeBook Course Webinar's 4th session in April 2022, organised by Stuart Duncan. In this session, we quickly cover CodeBook (i.e.: Jupyter Lab) and Refinitiv Data Library basics in Python before heading to the important subject: Using News data in finance with Machine Learning methods whereby Haykaz Aramyan will present his great work on Natural Language Processing and Sentiment Analysis.
